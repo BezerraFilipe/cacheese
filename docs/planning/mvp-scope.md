@@ -14,11 +14,11 @@ Ter uma sprint 0 foi uma escolha de planejamento para possibilitar que a sprint 
 
 | Sprint | Duração | Período | Objetivo central |
 |--------|---------|---------|-----------------|
-| Sprint 0 | 1 semana | Semana 1 | Fundação técnica e arquitetural |
-| Sprint 1 | 2 semanas | Semanas 2–3 | Autenticação, contas e transações |
-| Sprint 2 | 2 semanas | Semanas 4–5 | Categorias, dashboard e orçamento |
-| Sprint 3 | 2 semanas | Semanas 6–7 | Alertas, email e qualidade |
-| Sprint 4 | 2 semanas | Semanas 8–9 | Bot do Telegram, deploy e DoD |
+| Sprint 00 | 1 semana | 20/03 -> 27/03 | Fundação técnica e arquitetural |
+| Sprint 01 | 2 semanas | 30/03 -> 10/04 | Autenticação, contas e transações |
+| Sprint 02 | 2 semanas | 13/04 -> 24/04 | Categorias, dashboard e orçamento |
+| Sprint 03 | 2 semanas | 27/04 -> 08/05 | Alertas, email e qualidade |
+| Sprint 04 | 2 semanas | 11/05 -> 22/05 | Bot do Telegram, deploy e DoD |
 
 ---
 
