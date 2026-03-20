@@ -34,3 +34,6 @@
 
 .DS_Store
 Thumbs.db
+
+# SimpleCov
+coverage/
